@@ -76,6 +76,12 @@
     }
 }
 @media (max-width: 575px){
+    .container {
+    max-width: 90% !important;
+    }
+    .logo-search{
+        width: 70% !important;
+    }
     .background {
         height: 35rem !important;
     }
@@ -89,6 +95,12 @@
     }
 }
 @media (max-width: 475px){
+    .container {
+    max-width: 92% !important;
+    }
+    .logo-search{
+        width: 70% !important;
+    }
     .redesign-button-td{
         width: 70px !important;
     }
