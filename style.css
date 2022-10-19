@@ -21,7 +21,7 @@ button:focus {
     
 }
 .logo-search{
-    width: 60% !important;
+    width: 90% !important;
     height: 50%;
     margin: 90px auto;
     background-color: rgba(0, 0, 0, 0.308);
@@ -37,7 +37,7 @@ button:focus {
 }
 .logo-search img{
     width: 200px;
-    padding-top: 40px;
+    padding-top: 80px;
 }
 .logo-area h4 {
     color: #fff;
