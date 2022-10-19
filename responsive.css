@@ -1,0 +1,95 @@
+@media (max-width: 991px){
+.container {
+    max-width: 85%;
+    }
+    .logo-search{
+        width: 70% !important;
+    }
+}
+@media (max-width: 866px){
+    .logo-search{
+        width: 80% !important;
+        padding-bottom: 50px !important;
+    }
+    .redesign-button-td{
+        margin: 10px auto;
+        padding: 10px 15px;
+        width: 140px !important;
+        font-size: 13px;
+    }
+    .logo-search img{
+        width: 150px !important;
+    }
+    .goog-te-gadget{
+        font-size: 1px !important;
+    }
+    select.goog-te-combo {
+        padding: 5px 10px !important;
+        font-size: 10px !important;
+    }
+}
+@media (max-width: 767px){
+    .dataTables_filter{
+        position: absolute;
+        top: -39px;
+        left: 0 !important;
+        right: 0;
+        margin: auto;
+    }
+}
+@media (max-width: 715px){
+    .footer p {
+        font-size: 13px;
+    }
+    .logo-search img{
+        width: 100px !important;
+    }
+}
+@media (max-width: 699px){
+    .redesign-button-td{
+        margin: 10px auto;
+        padding: 8px 10px !important;
+        width: 100px !important;
+        font-size: 11px;
+    }
+}
+@media (max-width: 609px){
+    .sura-bg{
+        background-color: rgba(0, 0, 0, 0.308);
+        padding: 65px 20px !important;
+        border-radius: 20px;
+        margin-bottom: 30px;
+    }
+    div.dataTables_wrapper div.dataTables_paginate ul.pagination{
+        flex-wrap: wrap !important;
+    }
+    .redesign-button-td{
+        margin: 10px auto;
+        padding: 8px 10px;
+        width: 100px !important;
+        font-size: 12px;
+        transition: 0.3 !important;
+    }
+    .redesign-button-td:hover{
+        transform: scale(1.2) !important;
+        background-color: #837A38 !important;
+    }
+}
+@media (max-width: 575px){
+    .background {
+        height: 35rem !important;
+    }
+    .search-bar input{
+        max-width: 50% !important;
+        margin: auto !important;
+        display: block !important;
+    }
+    .search-bar i {
+        display: none !important;
+    }
+}
+@media (max-width: 475px){
+    .redesign-button-td{
+        width: 70px !important;
+    }
+}
