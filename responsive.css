@@ -77,7 +77,7 @@
 }
 @media (max-width: 575px){
     .logo-search{
-        width: 70% !important;
+        width: 90% !important;
     }
     .background {
         height: 35rem !important;
@@ -93,7 +93,7 @@
 }
 @media (max-width: 475px){
     .logo-search{
-        width: 70% !important;
+        width: 90% !important;
     }
     .redesign-button-td{
         width: 70px !important;
