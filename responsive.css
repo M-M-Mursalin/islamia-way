@@ -2,13 +2,9 @@
 .container {
     max-width: 85%;
     }
-    .logo-search{
-        width: 70% !important;
-    }
 }
 @media (max-width: 866px){
     .logo-search{
-        width: 80% !important;
         padding-bottom: 50px !important;
     }
     .redesign-button-td{
@@ -76,9 +72,6 @@
     }
 }
 @media (max-width: 575px){
-    .logo-search{
-        width: 90% !important;
-    }
     .background {
         height: 35rem !important;
     }
@@ -90,11 +83,11 @@
     .search-bar i {
         display: none !important;
     }
+    .logo-search img{
+    padding-top: 60px !important;
+}
 }
 @media (max-width: 475px){
-    .logo-search{
-        width: 90% !important;
-    }
     .redesign-button-td{
         width: 70px !important;
     }
